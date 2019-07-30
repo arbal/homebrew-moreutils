@@ -12,6 +12,10 @@ This fork just adds a one-liner to do all the updates and cleanup and will likel
 
 (https://gist.github.com/arbal/3f552be79d279f30f461d401a5716641)
 
+OR
+
+`source <(curl -s https://gist.githubusercontent.com/arbal/3f552be79d279f30f461d401a5716641/raw)`
+
 END @arbal FORK NOTES
 
 ## Options
